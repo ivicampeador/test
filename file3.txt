@@ -1,1 +1,1 @@
-branch other in master
+branch both
