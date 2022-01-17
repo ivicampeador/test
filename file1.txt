@@ -4,4 +4,7 @@ this another line
 and this is the last one
 this is a new line
 and a new line
+
 this a local change
+
+new changes
